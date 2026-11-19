@@ -1,8 +1,8 @@
 # Leonida Legend — GTA VI Trophy Guide & Tracker
 
-[![make.fun](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![GTA VI trophies](https://img.shields.io/badge/trophies-55-blue)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![Offline](https://img.shields.io/badge/offline-yes-green)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/anjay1933/anjay1933-gta6-trophy-guide-01-roni/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/anjay1933/anjay1933-gta6-trophy-guide-01-roni/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 An offline web app that guides and tracks all **55 PlayStation 5 trophies** of **Grand Theft Auto VI** (1 Platinum, 2 Gold, 6 Silver, 46 Bronze; 28 hidden). Entry for the [make.fun bounty "Build the best GTA 6 trophy guide"](https://make.fun/bounty/gta6-trophy-guide-01).
 
